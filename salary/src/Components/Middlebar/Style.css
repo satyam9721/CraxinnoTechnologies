@@ -1,0 +1,12 @@
+/* styles.css */
+.container {
+    position: relative;
+    margin-right: 70px;
+  }
+  
+  .right-shifted-component {
+    position: centre;
+    right: 50;
+   
+  }
+  

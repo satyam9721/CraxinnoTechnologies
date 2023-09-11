@@ -1,0 +1,10 @@
+/* styles.css */
+.container {
+    position: relative;
+  }
+  
+  .left-shifted-component {
+    position: absolute;
+    left: 0;
+  }
+  
